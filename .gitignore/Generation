@@ -1,1 +1,30 @@
-
+public class Generation extends Field
+{
+    int [][] sizeGen = new int[100][100];
+    
+    public int countGeneration(int count)
+    {
+        
+    }
+    
+    public void goBackwards()
+    {
+        
+    }
+    
+    public int[][] genStraightLine(int sizeGen[][])
+    {
+        
+    }
+    
+    public int[][] genCircle(int sizeGen[][])
+    {
+        
+    }
+    
+    public int[][] genRandom(int sizeGen[][])
+    {
+        
+    }
+   
+}
